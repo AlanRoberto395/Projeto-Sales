@@ -1,6 +1,6 @@
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
-using System.Diagnostics;
 
 namespace SalesWebMvc.Controllers
 {
@@ -8,6 +8,19 @@ namespace SalesWebMvc.Controllers
     {
         public IActionResult Index()
         {
+            return View();
+        }
+
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Salles Web MVC App from C# Course";
+            ViewData["email"] = "alanroberto.com";
+            return View();
+        }
+
+        public IActionResult Contact()
+        {
+            ViewData["Message"] = "Your contact page.";
             return View();
         }
 
