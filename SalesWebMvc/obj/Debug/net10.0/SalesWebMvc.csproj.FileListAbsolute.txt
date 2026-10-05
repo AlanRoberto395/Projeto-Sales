@@ -187,3 +187,4 @@ C:\Users\Admin\Documents\Projetos Visual\SalesWebMvc\SalesWebMvc\bin\Debug\net10
 C:\Users\Admin\Documents\Projetos Visual\SalesWebMvc\SalesWebMvc\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Admin\Documents\Projetos Visual\SalesWebMvc\SalesWebMvc\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Admin\Documents\Projetos Visual\SalesWebMvc\SalesWebMvc\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Documents\Projetos Visual\SalesWebMvc\SalesWebMvc\obj\Debug\net10.0\compressed\hmnf5phmj4-{0}-cjv4e748cp-cjv4e748cp.gz
