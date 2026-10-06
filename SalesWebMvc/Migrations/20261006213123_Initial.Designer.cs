@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20261006002037_InitialClean")]
-    partial class InitialClean
+    [Migration("20261006213123_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
