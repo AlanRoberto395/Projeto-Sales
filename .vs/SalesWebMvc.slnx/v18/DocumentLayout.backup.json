@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B8EF072-A439-8B98-4481-DF108737860E}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\admin\\documents\\projetos visual\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,11 +110,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T03:00:23.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs*",
+              "RelativeToolTip": "SalesWebMvc\\Services\\SellerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T02:22:00.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:44:34.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:55:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:04:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Departments\\Create.cshtml",
@@ -122,44 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SellerService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Services\\SellerService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Services\\SellerService.cs",
-              "RelativeToolTip": "SalesWebMvc\\Services\\SellerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T02:22:00.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SellersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T00:44:34.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-06T00:55:05.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SalesWebMvcContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
@@ -171,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SeedingService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SeedingService.cs",
@@ -183,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
@@ -195,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Index.cshtml",
@@ -207,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SalesWebMvc.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
               "RelativeDocumentMoniker": "SalesWebMvc\\SalesWebMvc.csproj",
@@ -219,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
@@ -231,19 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T22:04:38.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\Error.cshtml",
@@ -255,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
@@ -267,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SalesRecord.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\SalesRecord.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ViewModels\\SalesRecord.cs",
@@ -279,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20261006002037_InitialClean.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Migrations\\20261006002037_InitialClean.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20261006002037_InitialClean.cs",
@@ -291,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SalesWebMvcContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Migrations\\SalesWebMvcContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\SalesWebMvcContextModelSnapshot.cs",
@@ -303,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
@@ -315,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SalesStatus.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
@@ -327,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -339,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
@@ -351,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
@@ -363,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\appsettings.json",
@@ -375,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\Contact.cshtml",
@@ -387,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Projetos Visual\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\About.cshtml",
