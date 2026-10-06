@@ -19,19 +19,16 @@ namespace SalesWebMvc.Data
         {
             if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
             {
-                return; // Já existem dados
+                return; 
             }
-
-            // 1. Instanciar e adicionar Departamentos primeiro
             Department d1 = new Department { Name = "Computers" };
             Department d2 = new Department { Name = "Electronics" };
             Department d3 = new Department { Name = "Fashion" };
             Department d4 = new Department { Name = "Books" };
 
             _context.Department.AddRange(d1, d2, d3, d4);
-            _context.SaveChanges(); // Persiste no MySQL para gerar os IDs reais
+            _context.SaveChanges(); 
 
-            // 2. Instanciar e adicionar Vendedores vinculados aos Departamentos criados
             Seller s1 = new Seller { Name = "Bob Brown", Email = "bob@gmail.com", BirthDate = new DateTime(1998, 4, 21), BaseSalary = 1000.0, Department = d1 };
             Seller s2 = new Seller { Name = "Peter Parker", Email = "peter@gmail.com", BirthDate = new DateTime(2001, 8, 10), BaseSalary = 1200.0, Department = d1 };
             Seller s3 = new Seller { Name = "Barack Obama", Email = "barack@gmail.com", BirthDate = new DateTime(1961, 8, 4), BaseSalary = 3000.0, Department = d2 };
@@ -40,9 +37,8 @@ namespace SalesWebMvc.Data
             Seller s6 = new Seller { Name = "Fausto Dias", Email = "fausto@gmail.com", BirthDate = new DateTime(1988, 11, 29), BaseSalary = 1800.0, Department = d3 };
 
             _context.Seller.AddRange(s1, s2, s3, s4, s5, s6);
-            _context.SaveChanges(); // Persiste no MySQL para gerar os IDs reais
+            _context.SaveChanges();
 
-            // 3. Instanciar e adicionar Vendas vinculadas aos Vendedores
             SalesRecord r1 = new SalesRecord { Date = new DateTime(2018, 09, 25), Amount = 11000.0, Status = SalesStatus.Billed, Seller = s1 };
             SalesRecord r2 = new SalesRecord { Date = new DateTime(2018, 09, 04), Amount = 7000.0, Status = SalesStatus.Billed, Seller = s3 };
             SalesRecord r3 = new SalesRecord { Date = new DateTime(2018, 09, 13), Amount = 4000.0, Status = SalesStatus.Canceled, Seller = s4 };
