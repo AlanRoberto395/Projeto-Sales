@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Data;
-using SalesWebMvc.Services; 
+using SalesWebMvc.Services;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("SalesWebMvcContext") ?? throw new InvalidOperationException("Connection string 'SalesWebMvcContext' not found.");
@@ -17,6 +19,15 @@ builder.Services.AddScoped<SellerService>();
 
 var app = builder.Build();
 
+var enUS = new CultureInfo("en-US");
+var localizationOptions = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture(enUS),
+    SupportedCultures = new List<CultureInfo> { enUS },
+    SupportedUICultures = new List<CultureInfo> { enUS }
+};
+
+app.UseRequestLocalization(localizationOptions);
 // Executa o SeedingService na inicialização
 using (var scope = app.Services.CreateScope())
 {
