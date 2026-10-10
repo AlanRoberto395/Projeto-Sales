@@ -82,20 +82,18 @@ erDiagram
     }
 
 
-📚 O que pratiquei neste projeto
-Arquitetura MVC com separação em Controllers, Services e Models.
+## 📚 O que pratiquei neste projeto
 
-Entity Framework Core com Code First e migrations em MySQL.
+- Arquitetura **MVC** com separação em Controllers, Services e Models.
+- **Entity Framework Core** com *Code First* e migrations em MySQL.
+- Relacionamentos 1:N e configuração de **integridade referencial** (`DeleteBehavior.Restrict`).
+- **Programação assíncrona** com `async`/`await` e `Task`.
+- Validação com *Data Annotations* e tratamento de **exceções personalizadas**.
+- Consultas com **LINQ**: filtros por período, `Include` e `GroupBy`.
+- Utilização de **User Secrets** para o gerenciamento seguro de credenciais de banco de dados, mantendo o código limpo e protegido no versionamento.
 
-Relacionamentos 1:N e configuração de integridade referencial (DeleteBehavior.Restrict).
+---
 
-Programação assíncrona com async/await e Task.
+## 🎓 Créditos
 
-Validação com Data Annotations e tratamento de exceções personalizadas.
-
-Consultas com LINQ: filtros por período, Include e GroupBy.
-
-Utilização de User Secrets para o gerenciamento seguro de credenciais de banco de dados, mantendo o código limpo e protegido no versionamento.
-
-🎓 Créditos
-Projeto desenvolvido com base nos conceitos do curso C# COMPLETO – Programação Orientada a Objetos + Projetos, do professor Nélio Alves (Educandoweb), com adaptações e melhorias estruturais para versões recentes do .NET, EF Core e boas práticas de segurança de dados.
+Projeto desenvolvido com base nos conceitos do curso **C# COMPLETO – Programação Orientada a Objetos + Projetos**, do professor **Nélio Alves** ([Educandoweb](https://educandoweb.com.br)), com adaptações e melhorias estruturais para versões recentes do .NET, EF Core e boas práticas de segurança de dados.
