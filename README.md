@@ -81,6 +81,8 @@ erDiagram
         int SellerId
     }
 
+```
+
 
 ## 📚 O que pratiquei neste projeto
 
